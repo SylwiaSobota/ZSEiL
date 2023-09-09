@@ -1,0 +1,30 @@
+1. Utwórz plik index.html z podstawowym 
+szablonem strony. 
+2. Dołącz do niego plik skrypt.js
+3. Dołącz plik styl.css
+4. w pliku skrypt.js zadeklaruj 3 zmienne a = 5, b=6,
+c=12 i wykonaj na nich podstawowe operacje : 
+dodawanie, odejmowanie, mnozenie, dzielenie. 
+Wyniki wyświetl  w pliku index.html.
+
+5. W html wypisz zadeklarowane zmienne a,b i c
+a poniżej wartości zmiennych powiększone o 1, 2 i 5
+
+6. Pobierz od użytkownika liczbę w dowolny sposób
+i dodaj do niej 5, pożniej odejmij od wyniku 4,
+następnie pomnóż przez 6. Na samym końcu podaj 
+resztę z dzielenia przez 3.
+Wyniki zapisz w html jako:
+Podales liczbe: <liczba>.
+suma jej z 5 wynosi <wynik dodawania>
+po odjęciu od wyniku 4 wyszło <wynik odejmowania>
+Po pomnożeniu poprzedniego wyniku przez 6 wyszło 
+<wynik mnożenia>
+A reszta z dzielenia poprzedniego wyniku 
+wynosi <modulo>
+
+let n = parseInt(prompt("Podaj liczbę:"))
+
+
+7. Pobierając zmienną od użytkownika sprwadz czy 
+jest podzielna przez 2, następnie przez 3. 
