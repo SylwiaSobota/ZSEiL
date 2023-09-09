@@ -1,0 +1,25 @@
+Do wykonania zadań możesz użyć plików z dnia 
+poprzedniego
+1. Napisz program, który wyświetli tyle razy słowo 
+Witaj ile wynosi reszta z dzielenia 134 przez 5.
+
+2. Napisz program, który będzie prosił użtkownika 
+o podanie liczby dopóki nie wprowadzi 0.
+
+3. Napisz program, który poda rozwiązania równania
+kwadratowego, jeżeli użytkownik poda współczynniki 
+a b c 
+ax^2 +bx +c
+delta = b^2 - 4ac Math.pow(a,2) (4*a*c)
+x0 Math.sqrt(liczba)
+x1 x2 
+1 2 1 (-1)
+
+4. Popros uzytkownika o podanie oceny cyfra, 
+a w html zeby byla slownie 
+1- niedostateczny
+2 - dopuszczajacy
+3 - dostateczny
+4 - dobry
+5 - bardzo dobry
+6 - celujący
