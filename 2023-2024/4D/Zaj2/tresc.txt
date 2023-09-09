@@ -1,0 +1,29 @@
+1. Popros uzytkownika o podanie oceny cyfra, 
+a w html zeby byla slownie 
+1- niedostateczny
+2 - dopuszczajacy
+3 - dostateczny
+4 - dobry
+5 - bardzo dobry
+6 - celujący
+
+2. Napisz program, który wyświetli tyle razy słowo 
+Witaj ile wynosi reszta z dzielenia 134 przez 5.
+
+3. Napisz program, który będzie prosił użtkownika 
+o podanie liczby dopóki nie wprowadzi 0
+
+4. Do tablicy skadajacej sie z 10 elementow 
+wprowadz 10 liczb podanych przez uzytkownika
+
+5. Pobierz od uzytkownika 3 wartosci zmiennych.
+Sprawdz czy uda sie z nich zbudowac trojkat. 
+Pamietaj ze wartosci musza byc wieksze od zera. 
+program ma sprawdzic ktora wartosc jest 
+najwieksza
+
+6. Oblicz pole trojkata znajac tylko jego boki. 
+Dlugosci boków pobierz od uzytkownika
+pierwiastek -> Math.sqrt 
+Math.pow(liczba, potega)
+
