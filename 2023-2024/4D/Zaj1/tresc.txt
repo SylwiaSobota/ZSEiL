@@ -1,0 +1,41 @@
+1. Utwórz plik index.html z podstawowym 
+szablonem strony. 
+2. Dołącz do niego plik skrypt.js
+3. Dołącz plik styl.css
+4. w pliku skrypt.js zadeklaruj 3 zmienne a = 5, 
+b=6, c=12 i wykonaj na nich podstawowe operacje :
+dodawanie odejmowanie, mnozenie, dzielenie. 
+Wyniki wyświetl w pliku index.html.
+ 
+ 5.zmodyfikuj wyświetlanie w taki sposób aby wyniki 
+ wyświetlały się w nowych akapitach stworzonych 
+ w pliku index. 
+
+ 6. W dowolny sposób pobierz od użytkownika liczbę
+ i sprawdz czy jest parzysta. wynik podaj w html 
+ w postaci "Liczba <podana> jest parzysta/nieparzysta.
+
+7. Napisz program, który wyświetli tyle razy słowo 
+Witaj ile wynosi reszta z dzielenia 134 przez 5.
+
+8. Napisz program, który będzie prosił użtkownika 
+o podanie liczby dopóki nie wprowadzi 0.
+
+9. Napisz program, który poda rozwiązania równania
+kwadrotowego, jeżeli użytkownik poda współczynniki 
+a, b, c.
+ax^2+bx+c
+x1 x2 x0
+delta b^2-4ac
+
+
+
+
+
+
+
+ SylwiaS
+ sylwia9470
+
+
+ https://github.com/SylwiaSobota
