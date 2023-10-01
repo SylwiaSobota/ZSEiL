@@ -105,7 +105,7 @@ if(a>b && a>c)
     najwiekszy=a 
     a=0
     //suma = b+c
-    //if (a<suma)
+    //if (a>suma)
 }
 else if(b>c && b>a)
 {
