@@ -1,0 +1,12 @@
+1. Utwórz plik index.html z dołączonym plikiem skrypt.js
+2. Napisz program, który sprawdzi czy liczba podana przez użytkownika jest liczbą parzystą.
+3. Napisz program, który sprawdzi czy liczba jest podzielna przez 2 i przez 3 jednocześnie. Można udoskonalić program dodając oddzielne dzielenie przez 2 i przez 3.
+4. Napisz program, który pobierze od użytkownika 3 dowolne liczby i napisze którą podał największą. 
+5. Zmodyfikuj zadanie 4 w taki sposób aby program sprawdzał przypadek podania 2 takich samych liczb. Ma także pokazywać która jest największa, a gdy największe są 2 ma też to uwzględnić. 
+6. Napisz program, który wykona podstawowe operacje arytmetyczne w zależności od znaku jaki poda użytkownik. 2 liczby są pobierane od użykownika. 
++ suma
+- różnica
+* iloczyn
+/ iloraz 
+
+7. Utwórz nową zmienną, która będzie pobierać liczby od 1 do 7. W zależności od wartości w html ma się wyświetlać odpowiednio: 1-> poniedziałek, 2-> wtorek itd. 
