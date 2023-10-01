@@ -1,0 +1,14 @@
+Bazując na podstawowym szablonie HTML wykonaj poniższe zadania
+1. Napisz prorgam, któy wykona podstawowe obliczenia na 5 liczbach podanych przez uytkownika. Wyniki wypisze w HTML. Do podstawowych operacji zalicz: dodawanie, odejmowanie, mnożenie i dzielenie. 
+2. Nie używając fukcji matematycznych napisz program, który obliczy wynik podniesienia pierwszej liczby podanej przez użytkownika do potęgi wyrażeonej drugą liczbą podaną przez użytkownika, tj a do potęgo b
+
+3. Napisz program, który poda najmnieszą wartość reszty z dzielenia liczb podanych przez uzytkownika przez liczbę 4. 
+
+4. Napisz fukncję, które wykonają podstawowe operacje arytmetyczne na 4 zmiennych podanych jako argumenty. Funkcje mają zwracać: sumę, różnice, iloczyn i iloraz. 
+
+5. Napisz funkcję która pobierze od uzytkownika
+imie, nazwisko, klasę, i wyświetli te dane 
+w akapitach HTML. 
+
+6. Napisz funkcję, która wykona odpowiednią operację arytmrtyczną na 4 liczbach w zależnosci od podanego znaku: + dodawanie, - odejmowanie, 
+* mnożenie, / dzielenie. Znak przekazywany jako argument
