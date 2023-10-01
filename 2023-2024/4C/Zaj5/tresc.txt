@@ -1,0 +1,15 @@
+1. Napisz program, który pobierze od użytkownika 3 dowolne liczby i napisze którą podał największą. 
+
+2. Zmodyfikuj zadanie 1 w taki sposób aby program sprawdzał przypadek podania 2 takich samych liczb. Ma także pokazywać która jest największa, a gdy największe są 2 ma też to uwzględnić. 
+
+3. Napisz program, który poda pierwiastek, potęgę, wartość bezwględną oraz logarytm naturalny z sumy 2 liczb podanych przez użytkownika. Wyniki zapisz w kolejnych akapitach poprzedzając je wiadomością czego dotyczą 
+
+4. Napisz program, który w zależności od podanego parametru wykona pewne obliczenia na liczbach 4 podanych przez użytkownika. Jeżeli użytkownik poda parametr równy 1 to wykona się suma, jeżeli 2 - róznica, 
+3 - iloczyn
+4 iloraz
+5 podniesie do 7 potegi sumę 4 liczb
+6 wyciągnie pierwiastek z sumy 4 liczb
+7 poda maksymalną liczbe z podanycgh 
+8 poda minimalną z podanych.
+Operacje mają pojawiać się w nagłówku 4 stopnia tylko tą które wybrał użytkownik
+5. Zmodyfikuj zadanie 4 tak aby wywoływały się funkcje 
