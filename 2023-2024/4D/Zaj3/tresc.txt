@@ -1,0 +1,11 @@
+1. Do istniejącej funkcji sumy dopisz funkcje 
+różnicy, iloczynu i ilorazu. Pamiętaj, że nie wolno
+dzielic przez 0.
+2. Sprawdź czy zmienne są liczbami
+3. Napisz funkcję, która wykona podstawowe działania
+(suma, roznica, iloczyn, iloraz) w zależności
+od zdefiniowanego znaku. Np. a= 12, b = 2, 
+znak = '+' - wykona się dodawanie tych liczb 
+4. Napisz funkcję która pobierze od uzytkownika
+imie, nazwisko, klasę, i wyświetli te dane 
+w akapitach HTML. 
