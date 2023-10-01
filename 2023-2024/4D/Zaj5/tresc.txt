@@ -1,0 +1,20 @@
+Bazując na podstawowym szablonie HTML wykonaj poniższe zadania
+1. Napisz prorgam, któy wykona podstawowe obliczenia na 5 liczbach podanych przez uytkownika. Wyniki wypisze w HTML. Do podstawowych operacji zalicz: dodawanie, odejmowanie, mnożenie i dzielenie. 
+2. Nie używając fukcji matematycznych napisz program, który obliczy wynik podniesienia pierwszej liczby podanej przez użytkownika do potęgi wyrażeonej drugą liczbą podaną przez użytkownika, tj a do potęgi b
+Utwórz tablicę 20 elementów, gdzie dane będa do niej wprowadzane randomowo z zakresu 20 - 50. Liczby muszą być całkowite. 
+
+3. Utwórz tablicę 20 elementów. Liczby podaje użytkownik.
+Podaj następujące infromacje dotyczace tablicy:
+a) maksymalna wartość w tablicy
+b) minimalna wartość w tablicy
+c) średnia wartość tablicy 
+d) wartość 4, 6, 9, 12, i 17 elementu  tablicy.
+Dane mają pojawiać się w akapitach HTML.
+Napisz program, który poda pierwiastek, potęgę, wartość bezwględną oraz logarytm naturalny z sumy 2 liczb podanych przez użytkownika. Wyniki zapisz w kolejnych akapitach poprzedzając je wiadomością czego dotyczą 
+4. Napisz program, który w zależności od podanego parametru wykona pewne obliczenia na liczbach 4 podanych przez użytkownika. Jeżeli użytkownik poda parametr równy 1 to wykona się suma, jeżeli 2 - róznica, 3 - iloczyn 4 iloraz
+5 podniesie do 7 potegi sumę 4 liczb
+6 wyciągnie pierwiastek z sumy 4 liczb
+7 poda maksymalną liczbe z podanycgh 
+8 poda minimalną z podanych.
+Operacje mają pojawiać się w nagłówku 4 stopnia tylko tą które wybrał użytkownik
+5. Zmodyfikuj zadanie 4 tak aby wywoływały się funkcje 
