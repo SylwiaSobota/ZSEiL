@@ -1,0 +1,11 @@
+Bazując na prostym szablonie HTML oraz dołączonym do niego pliku js wykonaj poniższe zadania:
+1. Utwórz tablicę złożoną z 10 liczb podanych przez uzytkownika.
+2. Podaj największą i najmniejszą liczbę w tablicy 
+3. Podaj średnią wartość elementów w tablicy. 
+
+4. Utwórz drugą tablicę 10 elementów, gdzie dane zostaną wprowadzone randomowo z zakresu 0-99. 
+5. Połącz obie tablice i wyświetl dane posortowane, podaj min i maks dla połączonej tablicy. 
+
+6*. Utwórz tablicę 20 elementów, gdzie użytkownik będzie podawał liczby. Program ma sprawdzać czy w tablicy nie ma już takiej samej liczby jak użytkownik aktualnie podaje i musi podać inną. Oznacza to, że wartości mają być bez powtórzeń. Metoda wprowadzania danych jest dowolna. 
+
+7. Utwórz tablicę 20 elementów, gdzie dane będa do niej wprowadzane randomowo z zakresu 20 -50. Liczby muszą być całkowite. 
