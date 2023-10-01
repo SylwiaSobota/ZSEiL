@@ -1,0 +1,16 @@
+1. Utwórz plik HTML z załączonym plikiem skrypt.js
+2. w HTML utwórz akapit z imieniem i nazwiskiem.
+3. Za pomocą JS zmień kolor tekstu na czerwony. 
+4. Za pomocą JS wyświetl aktualną godzinę i datę, która zmienia się po odświeżeniu strony. 
+
+5. Za pomocą fukcji matematcznych ustal, którą liczbę z 6 podanych przez użytkownika jest:
+a) maksymalna, 
+b) minimalna
+c) daje najmniejszą wartość pierwiastka kwadratowego, (wyswietlamy oryginalna liczbe)
+d) jest największa w podniesieniu do potęgi 4
+Przy czym użytkownik może podawać wartości ujemne. 
+W zadaniu 6 i 7 nie używamy fukcji matematcznych
+
+6. Napisz program, który pobierze od użytkownika 3 dowolne liczby i napisze którą podał największą. 
+7. Zmodyfikuj zadanie 6 w taki sposób aby program sprawdzał przypadek podania 2 takich samych liczb. Ma także pokazywać która jest największa, a gdy największe są 2 ma też to uwzględnić. 
+8. Napisz program, który poda pierwiastek, potęgę, wartość bezwględną oraz logarytm naturalny z sumy 2 liczb podanych przez użytkownika. Wyniki zapisz w kolejnych akapitach poprzedzając je wiadomością czego dotyczą
