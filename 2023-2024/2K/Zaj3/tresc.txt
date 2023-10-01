@@ -1,0 +1,13 @@
+Wykorzystując plik index.html z poprzednich zajęć wykonaj następujące zadania:
+1. Napisz program, który wypisze 15 razy słowo "Witaj" umieszczone w akapicie html. 
+2. Napisz program, który wypisze nazwę dnia dzisiejszego tj. Środa, w nagłówku pierwszego stopnia tyle razy ile wynosi reszta z dzielenia 189 przez 4.
+<h1>
+3. Za pomocą pętli wykonaj tabliczkę mnożenia od 1 do 12. Tabliczka ma być w postaci tabeli( bez html)
+<br> przełamanie wiersza w html 
+4. Napisz program który wyświetli wyniki mnożenia przez liczby 1-15 liczby podanej przez użytkownika. 
+4. Napisz program, który pobiera od użytkownika liczbę  dopóki użytkownik nie poda 0. 
+
+5. Pobierz od uzytkownika 3 wartosci zmiennych. Sprawdz czy uda sie z nich zbudowac trojkat. Pamietaj ze wartosci musza byc wieksze od zera. program ma sprawdzic ktora wartosc jest najwieksza
+3 4 5 
+
+6. Napisz program, który pobierze od użytkownika 4 liczby oraz znak (+ - * / ) i w zależności od podanego znaku wykona operacje dodawania, odejmowania,mnożenia dzielenia na sumie 2 pierwszych jako jedna liczba i 2 ostatnich traktowanych jako 2 liczba. Pamiętaj o dzieleniu przez 0. 
