@@ -1,0 +1,29 @@
+1. Utwórz tablicę 20 elementów, gdzie dane będa do niej wprowadzane randomowo z zakresu 20 - 50. Liczby muszą być całkowite. 
+2. Utwórz tablicę 20 elementów. Liczby podaje użytkownik.
+Podaj następujące infromacje dotyczace tablicy:
+a) maksymalna wartość w tablicy
+b) minimalna wartość w tablicy
+c) średnia wartość tablicy 
+d) wartość 4, 6, 9, 12, i 17 elementu  tablicy.
+Dane mają pojawiać się w akapitach HTML. 
+
+
+
+Przygotowanie na juto HTML i CSS 
+- tabele w HTML
+- bloki (div, span)
+- scalanie komórek w pionie i poziomie HTML tabele 
+- obrazki wstawianie html
+- formularze html
+css -
+- formatowanie tekstu
+- formatowanie bloków - ustawianie 
+- pozycjonowanie elementów
+- deklarowanie po id i class stylów 
+<p id="nowy">
+<h1 class="nagNowy">
+
+
+
+
+
