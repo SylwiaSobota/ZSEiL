@@ -1,0 +1,5 @@
+1. Utwórz w HTML paragraf z tekstem Witaj. Za pomocą zdarzeń zmień treść paragrafu na Żegnaj. można użyć przycisku.
+2. Napisz program, który po kliknięciu w przycisk załaduj, poprosi użytkownika o podanie imienia i wypisze go w nagłówku pierwszego stopnia. 
+3. Napisz program, kóry po najechaniu na nagłówek drugiego stopia zmeini jego kolor na czerwony. Nie można używać CSS. 
+
+4. Napisz program, który po kliknięciu w w obrazek zwierzątka wyświetli jego nazwę oraz obszar występowania. zwierzątka do użycia w programie: papuga, wilk, żyrafa, krokodyl, zebra. 
