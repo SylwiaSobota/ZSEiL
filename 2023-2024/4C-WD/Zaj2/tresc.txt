@@ -1,0 +1,16 @@
+1. Napisz program, ktory sprawdzi czy pierwsza liczba jest podzielna przez druga. (a/b daje 0)
+2. Napisz program, ktory sprawdzi czy liczba jest z przedzialu <1,10> lub <17,21)
+3. Napisz program, ktory poinformuje czy liczba jest wieksza, mniejsza lub rowna 0. Wykorzystaj jedna instrukcje warunkowa.
+4. Napisz program, ktory sprawdzi wiek i wyswietli informacje dla spelnionych warunkow:
+ponizej 11 - dziecko
+11-17 - nastolatek
+18 i wiecej - dorosly
+5. Napisz program, ktory wyznaczy najmniejsza liczbe z 3 podanych. Nie uzywamy funkcji wbudowanych.
+6. Napisz program, ktory sprawdzi czy 2 z 3 podanych liczb sa takie same (pod wzgledem wartosci i typu)
+7. Za pomoca HTML i petli stworz tabele skladajaca sie z 2 kolumn i 10 wierszy 
+8. Za pomoca petli for, while, do...while napisz skrypt, ktory bedzie zwiekszal zmienna od 1 do 100 co 2. Zadanie nalezy zrobic 3 razy za kazdym uzywajac innej petli.
+9. Za pomoca petli for, do..while, while napisz skrypt, ktory wypisze ilosc iteracji petli dla zmiennej i<=10. Zadanie nalezy wykonac na 4 rozne sposoby wykorzystujac zapis i++, ++i, i--, --i.
+10. Z przedzialu <0,100> wyswietl liczby podzielne przez 3, 5, 7.
+11. Wprowadzamy na zmienna dowolna liczbe calkowita. Zadaniem jest wyswietlenie kolejnych 20-stu liczb podzielnych przez 3. Jezeli wprowadzona liczba nie jest podzielna przez 3, program wyznacza najblizsza podanej. Pamietaj o poinformowaniu uzytkownika o takiej sytuacji.
+12. Wprowadzamy dowolna liczbe calkowita. Sprawdzamy czy jest podzielna przez druga wprowadzana liczbenp. n. Jesli tak wypisujemy 20-scia kolejnych liczb podzielnych przez n. Jesli nie szukamy najblizszej podzielnej przez n i wypisujemy 20-scia kolejnych liczb podzielnych przez n.
+13. Napisz program, ktory sprawdzi czy podana liczba jest pierwsza
