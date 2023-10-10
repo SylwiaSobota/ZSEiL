@@ -1,0 +1,20 @@
+1. utworz plik index.php. Zadeklaruj podstawowy szablon strony HTML. umiesc w ciele HTML znaczniki rozpoczynajace i zamykajace skrypt. 
+2. Napisz program, ktory dla zmiennych a =12, b=17, c=23 wykona podstawowe operacje arytmetyczne(dodawanie, odejmowanie, mnozenie, dzielenie). Pamietaj o podstawowych zasadach matematycznych.
+3. Napisz program, ktory sprawdzi: 
+a) czy liczba a jest podzielna przez 2
+b) czy liczba b jest podzielna przez 4 
+c) czy suma liczb a i c jest mniejsza od b
+Umiesc stosowne komunikaty wyswietlane w przegladrce internetowej. 
+
+4. Napisz program, ktory sprawdzi czy liczba a jest podzielna przez 2, jesli nie jest podzielna przez 2 sprawdz czy jest podzielna przez 3. W przeciwnym wypadku podaj stosowny komunikat.
+
+
+
+
+
+
+
+
+
+
+
