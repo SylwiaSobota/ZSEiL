@@ -9,8 +9,11 @@ ponizej 11 - dziecko
 6. Napisz program, ktory sprawdzi czy 2 z 3 podanych liczb sa takie same (pod wzgledem wartosci i typu)
 7. Za pomoca HTML i petli stworz tabele skladajaca sie z 2 kolumn i 10 wierszy 
 8. Za pomoca petli for, while, do...while napisz skrypt, ktory bedzie zwiekszal zmienna od 1 do 100 co 2. Zadanie nalezy zrobic 3 razy za kazdym uzywajac innej petli.
-9. Za pomoca petli for, do..while, while napisz skrypt, ktory wypisze ilosc iteracji petli dla zmiennej i<=10. Zadanie nalezy wykonac na 4 rozne sposoby wykorzystujac zapis i++, ++i, i--, --i.
+9. Za pomoca petli for, do..while, while napisz skrypt, ktory wypisze ilosc iteracji petli dla zmiennej i<=10. Zadanie nalezy wykonac na 4 rozne sposoby wykorzystujac zapis i++, ++i.
 10. Z przedzialu <0,100> wyswietl liczby podzielne przez 3, 5, 7.
 11. Wprowadzamy na zmienna dowolna liczbe calkowita. Zadaniem jest wyswietlenie kolejnych 20-stu liczb podzielnych przez 3. Jezeli wprowadzona liczba nie jest podzielna przez 3, program wyznacza najblizsza podanej. Pamietaj o poinformowaniu uzytkownika o takiej sytuacji.
 12. Wprowadzamy dowolna liczbe calkowita. Sprawdzamy czy jest podzielna przez druga wprowadzana liczbenp. n. Jesli tak wypisujemy 20-scia kolejnych liczb podzielnych przez n. Jesli nie szukamy najblizszej podzielnej przez n i wypisujemy 20-scia kolejnych liczb podzielnych przez n.
 13. Napisz program, ktory sprawdzi czy podana liczba jest pierwsza
+14. Napisz program, ktory obliczy ilość cegieł w ścianie o podstawie X cegieł, wysokości Y rzędów cegieł, gdzie każdy kolejny stawiany rząd cegieł jest o Z cegieł krótszy od poprzedniego (niższego).
+15. Napisz program, ktory Wyświetli na ekranie ciąg arytmetyczny składający się z N elementów, gdzie pierwszy element ma wartość X, a różnica pomiędzy kolejnymi elementami ciągu wynosi Y.
+16. Napisz program, ktory wypisuje na ekran ciąg n liczb, z których każda kolejna jest kwadratem poprzedniej liczby z ciągu. Wartość pierwszej liczby podaje użytkownik.
