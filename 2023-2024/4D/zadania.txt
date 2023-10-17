@@ -1,0 +1,28 @@
+1. Napisz formularz, składający się z dwóch pól:
+– pole tekstowe o etykiecie ilość gości
+– pole checkbox o etykiecie poprawinyPo każdorazowej zmianie wartości któregoś z pól, poniżej formularza ma się obliczyć całkowity koszt wesela, liczony w taki sposób, że liczbę gości mnożymy przez koszt pojedynczej osoby: 100zł, natomiast jeśli zaznaczone jest pole checkbox, co oznacza, że wyprawiane będą poprawiny, koszt wesela zwiększamy o 30%. Wynik obliczeń wypisywać się ma poniżej formularza.
+2. Napisz formularz, składający się z dwóch pól:
+– pole tekstowe o etykiecie ilość kilometrów
+– pole checkbox o etykiecie Jestem z Gdańska
+Oblicz koszt dowozu pizzy. W przypadku zaznaczenia pola checkbox informującego, że jesteś z Gdańska, wypisz bezpośrednio pod formularzem: “Dowieziemy Twoją pizzę za darmo”. W przypadku braku zaznaczenia pola checkbox oblicz koszt dowozu w taki sposób, że cena przejechania 1km to 1zł. Pamiętaj, że jedziesz w dwie strony. Jeśli mieszkasz 5km od pizzerii, zapłacisz 10zł. Wypisz pod formularzem komunikat o treści: “Dowóz będzie Cię kosztował … zł”, gdzie w miejscu … wprowadzisz obliczoną przez Ciebie cenę dowozu.
+3. Napisz formularz składający się z 2 pól tekstowych oraz 6 przycisków. Pola tekstowe to odpowiednio miejsce na wpisanie przez użytkownika wartości zmiennych a oraz b. 6 przycisków oznacza działania: dodawanie, odejmowanie, mnożenie, dzielenie, reszta z dzielenia, dzielenie całkowite. Po wprowadzeniu obu liczb i naciśnięciu jednego z przycisków wypisz pod formularzem rezultat działania. W przypadku niewypełnienia któregoś z pól tekstowym wypisz komunikat, który poinformuje użytkownika o takiej konieczności.
+4. Napisz formularz składający się z 5 pól tekstowych położonych jedno pod drugim. Obok każdego pola tekstowego znajdować się ma pole checkbox. Użytkownik wprowadza w pola tekstowe liczby całkowite (dopilnuj tego). Pod formularzem wyświetlać się ma suma liczb z pól tekstowych, ale tylko tych pól, koło których zaznaczony jest checkbox.
+5.Napisz formularz składający się z pola tekstowego o etykiecie liczba ogłoszeń, pola checkbox o etykiecie stały klient oraz przycisku. Po naciśnięciu przycisku obliczyć się ma koszt ogłoszenia, który zostanie wypisany nad formularzem. Koszt ogłoszenia oblicz w następujący sposób:
+– 1-50 ogłoszeń, cena 2zł za ogłoszenie
+– 51-100 ogłoszeń, cena 1,5zł za ogłoszenie
+– każde ogłoszenie powyżej 100 kosztuje 1zł.
+Dla stałych klientów naliczany jest rabat 20%.
+Napisz formularz, za pomocą którego obliczysz koszt zakupu cegieł oraz ich wagę.
+6. Formularz składać się ma z pola tekstowego ilości cegieł, oraz pola checkbox cegła premium.
+Do obliczeń przyjmij: koszt 1 cegły 2zł, cegła premium 30% droższa, waga 1 cegły 1.5 kg, waga cegły premium 1.75kg. Wynik obliczeń ma się wypisać poniżej formularza, po kliknięciu przycisku oblicz. Treść informacji wynikowej powinna brzmieć:
+“Zakupiona ilość cegieł: …, cegła standardowa / cegła premium, koszt zakupu cegieł: …, waga cegieł: …”
+7. Do poprzedniego zadania dodaj obliczenie kosztu transportu. Dodaj pole tekstowe ilość km. Dla obliczeń kosztu transportu przyjmij, że każdy 1km będzie kosztował 50gr za każde rozpoczęte 10kg. Informację o koszcie transportu dopisz do dotychczasowej informacji wynikowej.
+8. Napisz formularz, za pomocą którego obliczysz koszt wejściówek do aquaparku. Formularz ma zawierać trzy pola tekstowe: ilość biletów normalnych, ilość biletów ulgowych, ilość godzin, pole checkbox karta dużej rodziny, przycisk Oblicz.
+Do przeprowadzenia obliczeń przyjmij następujące założenia:
+– bilet normalny 10zł / godzina
+– bilet ulgowy 5zł / godzina
+– powyżej 4 godzin = bilet całodzienny: normalny 50zł, ulgowy 25zł
+– karta dużej rodziny rabat 10%
+– na każde 15 biletów ulgowych jeden bilet normalny gratis
+Wynik obliczeń ma się wypisać poniżej formularza, po kliknięciu przycisku. Treść informacji wynikowej powinna brzmieć:
+“Całkowity koszt wstępu do aquaparku: …zł”.
