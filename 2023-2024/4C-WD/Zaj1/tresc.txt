@@ -7,14 +7,3 @@ c) czy suma liczb a i c jest mniejsza od b
 Umiesc stosowne komunikaty wyswietlane w przegladrce internetowej. 
 
 4. Napisz program, ktory sprawdzi czy liczba a jest podzielna przez 2, jesli nie jest podzielna przez 2 sprawdz czy jest podzielna przez 3. W przeciwnym wypadku podaj stosowny komunikat.
-
-
-
-
-
-
-
-
-
-
-
