@@ -1,4 +1,4 @@
-let tab = [];
+/*let tab = [];
 function losowaLiczba(min, max)
 {
     return Math.floor(Math.random()*(max-min + 1)) + min;
@@ -28,3 +28,13 @@ var min = Math.min(...tab1)
 let srednia = tab1.reduce((a,b) => a+b,0)/tab1.length
 let el4 = tab1[3] // pamieciozerne 
 document.write(`<p> ${tab1[6]}`) // nie pamieciozerne, prawidlowe odwolanie
+*/
+let nastepna = 5;
+let wynik = 5;
+for(let i = 0; i<100;i++)
+{
+    nastepna +=10;
+    wynik += nastepna;
+    document.write(nastepna + "   " + wynik + "<br>")
+}
+console.log(wynik)
