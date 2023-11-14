@@ -14,6 +14,6 @@ ponizej 11 - dziecko
 11. Wprowadzamy na zmienna dowolna liczbe calkowita. Zadaniem jest wyswietlenie kolejnych 20-stu liczb podzielnych przez 3. Jezeli wprowadzona liczba nie jest podzielna przez 3, program wyznacza najblizsza podanej. Pamietaj o poinformowaniu uzytkownika o takiej sytuacji.
 12. Wprowadzamy dowolna liczbe calkowita. Sprawdzamy czy jest podzielna przez druga wprowadzana liczbenp. n. Jesli tak wypisujemy 20-scia kolejnych liczb podzielnych przez n. Jesli nie szukamy najblizszej podzielnej przez n i wypisujemy 20-scia kolejnych liczb podzielnych przez n.
 13. Napisz program, ktory sprawdzi czy podana liczba jest pierwsza
-14. Napisz program, ktory obliczy ilość cegieł w ścianie o podstawie X cegieł, wysokości Y rzędów cegieł, gdzie każdy kolejny stawiany rząd cegieł jest o Z cegieł krótszy od poprzedniego (niższego).
+14. Napisz program, ktory obliczy ilość cegieł w ścianie o podstawie X cegieł, wysokości Y rzędów cegieł, gdzie każdy kolejny stawiany rząd cegieł jest o Z cegieł krótszy od poprzedniego (niższego).54
 15. Napisz program, ktory Wyświetli na ekranie ciąg arytmetyczny składający się z N elementów, gdzie pierwszy element ma wartość X, a różnica pomiędzy kolejnymi elementami ciągu wynosi Y.
 16. Napisz program, ktory wypisuje na ekran ciąg n liczb, z których każda kolejna jest kwadratem poprzedniej liczby z ciągu. Wartość pierwszej liczby podaje użytkownik.
