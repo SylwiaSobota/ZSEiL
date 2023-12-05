@@ -1,0 +1,33 @@
+Napisz funkcję o podanej nazwie, wykonującą podane funkcjonalności:
+- SUMA: obliczy i wyświetli na ekran sumę 2 liczb całkowitych podanych przez użytkownika.
+- PODSTAWY: obliczy różnicę, iloczyn i iloraz 2 liczb podanych przez użytkownika.
+- KALKULATOR: Obliczy wybrane przez użytkownika działanie (suma, różnica, iloczyn lub iloraz) z dwóch podanych przez użytkownika liczb. Wynik działania umieści w kontenerze o id wynik.
+- MAKS: wypisze na ekran wartość największej spośród 3 liczb podanych przez użytkownika.
+- WZROST: wczyta od użytkownika wzrost, następnie wypisze na ekran komunikat klasyfikujący wzrost do jednej z trzech kategorii: < 150cm niski, > 180cm wysoki lub w pozostałych przypadkach średni.
+
+
+
+
+- BMI: wczyta od użytkownika wartość wzrostu (cm) oraz wagi (kg), następnie obliczy wartość BMI (kg/m2). W kontenerze wynik program umieści wartość BMI wraz z komentarzem:
+     BMI < 18,5: za mało!
+     BMI > 25: za dużo!
+     pomiędzy: OK!
+- STARSZY: wczyta z 2 pól tekstowych daty urodzenia dwóch osób, następnie wypisze komunikat z informacją, która z tych osób jest starsza
+- PRZESTĘPNY: program wczyta jako parametr wejściowy funkcji rok. Wypisze informację, czy dany rok jest przestępny, czy nie.
+
+
+
+
+- SIŁA: wczyta, podane jako parametr wejściowy, hasło podane przez użytkownika, następnie wypisze informację o jego sile:
+    – do 4 znaków hasło słabe
+    – do 8 znaków hasło średnie
+    – 8 lub więcej znaków hasło mocne
+    – brak cyfry hasło słabe
+    – brak dużej litery hasło słabe
+    – brak małej litery hasło słabe
+    – brak znaku specjalnego hasło słabe
+-   TROJKAT: wczyta od użytkownika 3 liczby całkowite, następnie wypisze, czy jeśli przyjąć, że są to długości boków, czy dałoby się utworzyć z nich trójkąt
+
+
+
+- SZYFR: program wczytuje litery w momencie każdorazowego naciśnięcia klawisza tekst z pola tekstowego, następnie szyfruje je i wypisuje po prawej stronie pola tekstowego na ekran. Szyfrowanie ma się odbywać w taki sposób, aby litera zaszyfrowana była przesunięciem o 2 względem alfabetu (zapętlenie), np. a -> c, k->m, z->b.
