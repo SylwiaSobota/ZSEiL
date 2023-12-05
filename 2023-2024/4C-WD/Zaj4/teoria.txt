@@ -1,0 +1,24 @@
+Funkcje w PHP
+function nazwa_funkcji($arg, $arg1, ...., $argN)
+{
+    ciało funkcji
+    Instrukcje do wykonania
+
+    return // funkcja coś zwraca
+}
+
+function suma($a, $b)
+{
+    //1
+    $c = $a + $b;
+    return $c
+    //2
+    return $a + $b
+}
+
+Wywołanie funkcji
+gdy funkcja coś zwraca 
+$wynik = suma($f, $j)
+
+gdy funkcja nic nie zwraca
+suma($h, $g)
