@@ -15,23 +15,17 @@
 - Zwiększ wartość każdego elementu tablicy podnosząc go do kwadratu.
 - Policz ilość liczb parzystych i nieparzystych w tablicy.
 - Podaj ile liczb zawartych w tablicy jest podzielna bez reszty przez 3.
-
-
-
-
 3. Utwórz tablicę, która zawierać będzie 10 elementów.
 - Wypełnij ją literami wprowadzonymi przez użytkownika
 - Wypełnij ją 10 literowymi wyrazami podanymi przez użytkownika.
 - Zamień wszystkie wielkie litery na małe i odwrotnie.
 - Wypisz zawartość tablicy w losowej kolejności.
-- Utwórz 100-elementową tablicę liczb całkowitych i wypełnij ją losowymi liczbami.
+
+
+4. Utwórz 100-elementową tablicę liczb całkowitych i wypełnij ją losowymi liczbami.
 - Znajdź największą spośród liczb oraz wyświetl na ekranie informację mówiącą o tym, ile razy ta liczba znalazła się w tablicy.
 - Wyświetl na ekran liczby nieparzyste.
 - Wyświetl na ekran liczby znajdujące się w komórkach o nieparzystych indeksach.
-
-
-
-
 - Program policzy ile liczb zawiera się w przedziale <5, 15) , po czym wypisze te liczby na ekran.
 - Znajdź element najbliższy wartością wprowadzonej przez użytkownika liczbie „a”.
 - Znajdź poprzednik i następnik najmniejszej wartości w tablicy (wartość komórki o numerze o jeden większym i o jeden mniejszym, niż indeks minimum tablicy).
@@ -41,7 +35,8 @@ B[i] = A[1] + A[2] + A[3] + … + A[i],
 gdzie B to nasza nowa, a A, stara tablica.
 - Posortuj tablicę malejąco.
 - Wypisz na ekran elementy, które występują w tablicy przynajmniej 3 razy.
-4. Utwórz pustą tablicę 100 elementów.
+
+5. Utwórz pustą tablicę 100 elementów.
 - Wypełnij tablicę kolejnymi liczbami ciągu Fibonacciego.
 - Wypełnij tablicę kolejnymi potęgami liczby 2.
 - Wypełni tablicę ciągiem liczb: 3, 6, 9, 12, …
