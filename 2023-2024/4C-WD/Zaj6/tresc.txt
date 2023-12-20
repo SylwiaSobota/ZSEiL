@@ -1,0 +1,35 @@
+FORMULARZE
+1. Utwórz formularz logowania użytkownika w pliku index.html, ma zawierać pola: login (text), hasło (password), checkbox z etykietą zapamiętaj mnie, przycisk do przesłania formularza. Formularz ma zostać przesłany do pliku login.php, w którym:
+- wyświetlisz na ekran przesłany przez użytkownika login
+- wypiszesz na ekran zdanie informacyjne, czy pole checkbox zostało zaznaczone
+2. Utwórz formularz, znajdujący się w pliku komentarz.html, służący do wpisania komentarza. Formularz ma zawierać pola:
+- Pseudonim (text)
+- Komentarz (textarea) – można używać znaczników html
+Formularz prześlij do pliku zapisz.php. Wyświetl w nim w kolejnych paragrafach pseudonim oraz dwa razy komentarz. Komentarz wyświetl kolejno w wersji z wykonanym kodem html (np. tekst w znacznikach ma zostać pogrubiony), oraz w pełni tekstowo (ze znacznikami html w postaci tekstu).
+
+3. Utwórz ankietę składającą się z 3 pytań. Pierwsze ma zawierać do wyboru listę rozwijaną zawierającą minimum 3 opcje, drugie zawierające minimum 3 pola typu radio oraz trzecie z minimum trzema polami checkbox. Formularz prześlij do pliku wynik.php, w którym wypiszesz wszystkie wybrane opcje.
+
+4. Napisz formularz, składający się z dwóch pytań, pierwszego o kolor tła, drugiego o kolor tekstu. Formularz prześlij do pliku kolory.php, w którym w paragrafie (wysokość 50%; szerokość 50%; marginesy lewy i prawy równe, margines górny 50px, ramka 2 px czerwona kreskowana) wypiszesz swoje imię i nazwisko czcionką o kolorze podanym w formularzu. Tło paragrafu również ustaw na to podane w formularzu. Kolory przesłane mają być w postaci szesnastkowej liczby 6 cyfrowej. Sprawdź poprawność przesłanych przez użytkownika liczb. //printowanie do php jak zamienic zamiast echo
+
+
+
+5. Utwórz formularz zawierający pola: koszt benzyny (text), ilość kilometrów (number), średnie spalanie (text). Formularz prześlij do pliku koszt.php, w którym wypiszesz na ekran wszystkie przesłane przez użytkownika informacje oraz obliczysz i wypiszesz na ekran koszt przejazdu. Zadbaj o poprawność przesłanych danych (koszt benzyny i średnie spalanie – liczby zmiennoprzecinkowe).
+
+6. Utwórz formularz obliczający koszt dowozu pizzy, składający się z dwóch pól: pole number – odległość w km, checkbox – ciepła. Formularz prześlij do pliku pizza.php, w którym wypiszesz obliczony koszt dowozu. Koszt dowozu obliczamy następująco: liczbę km mnożymy przez 50 groszy, jeśli pizza ma dotrzeć ciepła trzeba będzie doliczyć jeszcze dodatkowo 15% kosztów dowozu.
+
+
+
+
+7.Napisz formularz, za pomocą którego obliczysz koszt zakupu cegieł oraz ich wagę. Formularz składać się ma z pola tekstowego ilości cegieł, oraz pola checkbox cegła premium.
+Do obliczeń przyjmij: koszt 1 cegły 2zł, cegła premium 30% droższa, waga 1 cegły 1.5 kg, waga cegły premium 1.75kg. Wynik obliczeń ma się wypisać poniżej formularza, po kliknięciu przycisku oblicz. Treść informacji wynikowej powinna brzmieć:
+“Zakupiona ilość cegieł: …, cegła standardowa / cegła premium, koszt zakupu cegieł: …, waga cegieł: …”
+
+8. Napisz formularz, za pomocą którego obliczysz koszt wejściówek do aquaparku. Formularz ma zawierać trzy pola tekstowe: ilość biletów normalnych, ilość biletów ulgowych, ilość godzin, pole checkbox karta dużej rodziny, przycisk Oblicz.
+Do przeprowadzenia obliczeń przyjmij następujące założenia:
+– bilet normalny 10zł / godzina
+– bilet ulgowy 5zł / godzina
+– powyżej 4 godzin = bilet całodzienny: normalny 50zł, ulgowy 25zł
+– karta dużej rodziny rabat 10%
+– na każde 15 biletów ulgowych jeden bilet normalny gratis
+Wynik obliczeń ma się wypisać poniżej formularza, po kliknięciu przycisku. Treść informacji wynikowej powinna brzmieć:
+“Całkowity koszt wstępu do aquaparku: …zł”.
