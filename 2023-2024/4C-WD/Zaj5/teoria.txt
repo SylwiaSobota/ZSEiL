@@ -1,0 +1,18 @@
+Funkcje wbudowane 
+funkcje sortujace - sortowanie tablic- rsort, ksort, sort...
+funkcje matematyczne - potęgi, pierwiastki, wartość |x| 
+funkcje na ciągach literowych - string - zamiana na duze lub male litery 
+długość znaków,
+funkcje do tablic - wkładania do tablic, wyjmowanie z tablic 
+funkcje do baz danych - mysqli 
+
+
+FORMULARZE 
+<form action="plik.php" method="get | post">
+    <input type="text| number " id  | class | name>
+    <input type="submit"  id  | class | name> 
+    <input type="reset"  id  | class | name>
+</form>
+
+PHP 
+$pole1 = $_POST['pole1'];
