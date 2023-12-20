@@ -1,0 +1,40 @@
+Zad. 1
+Napisać funkcję o nazwie ZamienLiczbyJesliTrzeba (o 2 parametrach: $liczba1, $liczba2), która zamienia między sobą wartości parametrów $liczba1 i $liczba2, jeśli tylko $liczba1 jest większa od $liczba2.
+
+Zad. 2
+Napisać funkcję o nazwie SumaLiczb (o 2 parametrach: $zakres1, $zakres2), która zwraca sumę liczb z zakresu od $zakres1 do $zakres2 (włącznie). Należy przy tym najpierw sprawdzić, czy $zakres1 jest mniejsze lub równe $zakres2 - jeśli nie, to należy zamienić między sobą obie liczby (wykorzystać funkcję z Zad. 1).
+
+Zad. 3
+Napisać funkcję o nazwie ListaLiczb (o 3 parametrach: $zakres1, $zakres2, $ilosc) wczytujący do utworzonej wewnątrz funkcji tablicy $tab losowe liczby całkowite z zakresu od $zakres1 do $zakres2 w ilości $ilosc. Zweryfikować zmienne $zakres1 i $zakres2 podobnie jak w Zad. 2.
+Dodatkowo, jeśli $ilosc nie jest większa od zera, to wyświetlić komunikat o błędzie ("Ilość elementów w tablicy musi być większa od 0.") i przerwać działanie funkcji. Ostatecznie funkcja wyświetla liczby z tablicy w postaci listy nienumerowanej.
+Zad. 4
+Napisać funkcję o nazwie WyswietlLiczby_ObliczSrednia (o 4 parametrach: $ilosc1, $ilosc2, $zakres1, $zakres2) wczytującą do tablicy $tab utworzonej wewnątrz funkcji losową ilość liczb (ilość elementów od $ilosc1 do $ilosc2).
+Każdy element tablicy ma być losową liczbą z zakresu od $zakres1 do $zakres2. Następnie funkcja ma wyświetlić te liczby w tabeli o grubości linii 1 (tylko pojedyncza kolumna). Ostatecznie funkcja ma zwrócić średnią arytmetyczną liczb z tej tablicy.
+
+Zad. 5
+Napisać funkcję o nazwie DzielenieTekstow (o 1 parametrze: $wyrazenie_zlozone), która jako parametr przyjmuje zmienną $wyrazenie_zlozone; w parametrze powinien być wczytany do funkcji
+ciąg znaków (tekst) postaci:
+pojedyncze wyrażenia oddzielone przecinkami:
+(np. "Komputer,Serwer,Router,Klawiatura,Mysz,Karta sieciowa,Monitor,Zasilacz").
+Funkcja ma za zadanie wypisać każde pojedyncze wyrażenie znajdujące się w zmiennej $wyrazenie_zlozone w osobnej linii.
+Dodatkowo, przy wypisywaniu muszą być spełnione następujące założenia:
+1. Pierwsze i ostatnie pojedyncze wyrażenie mają być wypisane dużymi literami.
+2. Wszystkie pojedyncze wyrażenia (poza pierwszym i ostatnim), zawierające więcej niż 7 znaków należy wypisać małymi literami oraz jako pogrubione. Ostatecznie funkcja zwraca ilość pojedynczych wyrażeń, które wystąpiły w zmiennej $wyrazenie_zlozone.
+
+Zad. 6
+Napisać funkcję o nazwie ObliczPierwiastkiRownaniaKwadratowego (o 3 parametrach: $a, $b, $c), która oblicza i  wypisuje na ekranie pierwiastki rzeczywiste równania kwadratowego, jeśli one
+istnieją (w zależności od parametrów funkcji $a, $b, $c, które są współczynnikami równania kwadratowego postaci ax2 + bx + c = 0).
+Funkcja zwraca wartość true, jeśli rozwiązania istnieją albo wartość false, jeśli brak rozwiązań. Podaje również wartości tych rozwiązań.
+
+Zad. 7
+Napisz skrypt, który stworzy tablicę wielowymiarową zawierająca następujące dane: nazwy kontynentów (min 3) -> państwa mieszczące się na danym kontynencie (min 3) -> miasta w danym państwie (min 3). Posortuj tablicę rosnąco wg klucza: kontynent, państwo, miasto i wypisz na stronie.
+
+Zad.8 
+Napisz funkcję trojkatGwiazdki z parametrem podstawa, wysokosc, która za pomocą znaków * (gwiazdki) narysuje trójkąt.
+
+Zad. 9 
+Napisz funkcję koloGwiazdki z parametrem promien, która za pomocą znaków * (gwiazdki) narysuje koło.
+
+Zad. 10 
+Napisz funkcję fibonacci, która wypisze 20 kolejnych liczb z ciągu Fibonacciego. 
+Zmodyfikuj funkcję, aby obliczała taką ilosc liczb ciągu jaka została podana w argumencie
